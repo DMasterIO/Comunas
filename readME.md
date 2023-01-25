@@ -5,7 +5,7 @@
 
 
  Se calcula la distancia con centros comunales. 
- En el caso de courbaciones puede definirse en la variable tolerancia, cuando se entregarán 2 resultados en un arreglo. Desabilitar condicional si no es necesario
+ En el caso de courbaciones puede definirse en la variable tolerancia, cuando se entregarán 2 resultados en un arreglo. Deshabilitar condicional si no es necesario
 
 ### Pre-requisitos 📋
 
