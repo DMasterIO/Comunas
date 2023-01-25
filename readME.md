@@ -4,8 +4,8 @@
 ### Permite obtener la comuna de Chile, subdiviciòn de tercer orden, cuyo centro esté mas cercana la coordenada simple ingresada.
 
 
-### Se calcula la distancia con centros comunales. 
-### En el caso de courbaciones puede definirse en la variable tolerancia, cuando se entregarán 2 resultados en un arreglo. Desabilitar condicional si no es necesario
+ Se calcula la distancia con centros comunales. 
+ En el caso de courbaciones puede definirse en la variable tolerancia, cuando se entregarán 2 resultados en un arreglo. Desabilitar condicional si no es necesario
 
 ### Pre-requisitos 📋
 
