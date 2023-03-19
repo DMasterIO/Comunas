@@ -25,5 +25,5 @@ const comunaCercana = (comunas, lat, long) => {
 //let resultado= comunaCercana(comunas,-29.950179, -71.273715);
 //console.log(resultado)
 module.exports = {
-    comunaCercana
+    comunaCercana, comunas
 }
