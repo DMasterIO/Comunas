@@ -1,0 +1,25 @@
+{
+  "name": "comunas-chile-mjt",
+  "version": "1.0.0",
+  "description": "Entrega las comunas cercanas a un punto ingresado con su latitud y longitud'donde se encuentra",
+  "main": "location.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mjtBootcamp/Comunas.git"
+  },
+  "keywords": [
+    "comunas",
+    "chile",
+    "comunasdechile",
+    "comunaschile"
+  ],
+  "author": "MariaJose Tolmo",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mjtBootcamp/Comunas/issues"
+  },
+  "homepage": "https://github.com/mjtBootcamp/Comunas#readme"
+}

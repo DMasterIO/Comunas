@@ -22,5 +22,8 @@ const comunaCercana = (comunas, lat, long) => {
     let resultado = diferencia > tolerancia ? comunas[0] : [comunas[0], comunas[1]];
     return resultado;
 };
-let resultado= comunaCercana(comunas,-29.950179, -71.273715);
-console.log(resultado)
+//let resultado= comunaCercana(comunas,-29.950179, -71.273715);
+//console.log(resultado)
+module.exports = {
+    comunaCercana
+}
