@@ -1,6 +1,6 @@
 {
   "name": "comunas-chile-mjt",
-  "version": "1.0.2",
+  "version": "2.0.0",
   "description": "Entrega las comunas cercanas a un punto ingresado con su latitud y longitud'donde se encuentra",
   "main": "location.js",
   "scripts": {
